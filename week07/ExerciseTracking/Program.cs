@@ -12,9 +12,9 @@ class Program
         
         List<Activity> activities = new List<Activity>();
 
-        Running run = new Running("03 Nov 2026", 30, 4.8);
-        StationaryBike bike = new StationaryBike("04 Nov 2026", 45, 20.0);
-        Swimming swim = new Swimming("05 Nov 2026", 40, 20); 
+        Running run = new Running("15 Nov 2026", 30, 6.0);
+        StationaryBike bike = new StationaryBike("16 Nov 2026", 33, 35.0);
+        Swimming swim = new Swimming("18 Nov 2026", 25, 15); 
 
         activities.Add(run);
         activities.Add(bike);
